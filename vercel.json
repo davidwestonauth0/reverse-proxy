@@ -5,11 +5,11 @@
       "has": [
         {
           "type": "header",
-          "key": "x-vercel-ip-country",
-          "value": "GB"
+          "key": "cname-api-key",
+          "value": "9c0a346969657ef1033d01110e7615c07604baca29c06799d9c0d7e5d385a16b"
         }
       ],
-      "destination": "https://www.bbc.co.uk"
+      "destination": "https://emea-tam-team-actions-challenge3-cd-huxlifal7oy05oyz.edge.tenants.eu.auth0.com"
     }
   ]
 }
